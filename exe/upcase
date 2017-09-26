@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "upcase"
+
+puts STDIN.gets.chomp.upcase
